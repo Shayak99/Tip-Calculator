@@ -1,0 +1,14 @@
+body{
+    font-family: "Lobster", cursive;
+    background: #8e0e00;
+    background: linear-gradient(to left, #8e0e00, black);
+}
+h3,p,span,sup{
+    color: whitesmoke;
+}
+#container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 15px;
+}
